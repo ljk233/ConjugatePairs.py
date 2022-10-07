@@ -1,0 +1,26 @@
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "conjugatepriors"
+version = "0.2.0"
+authors = [
+  { name="Liam Kelly", email="to_be@added.com" },
+]
+description = "A package to perform a conjugate analysis using conjugate priors."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Statistics",
+    "Probability",
+    "Bayes",
+    "Open University",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
