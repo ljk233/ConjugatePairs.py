@@ -10,7 +10,7 @@ A Python module to help perform a conjugate analysis using conjugate pairs
 - Create a new virtual environment
 
 ```
-py3 -m venv .
+py -m venv venv
 ```
 
 - Activate the new vitural environemt
